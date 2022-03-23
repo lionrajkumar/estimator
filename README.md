@@ -21,6 +21,7 @@ create User with password like: "WgsQU529%%"
 For adminLTE install
 ```sh
 npm install vue-router
+npm install vue-loader --save-dev --legacy-peer-deps
 npm install fortawesome/fontawesome-free
 npm install admin-lte
 npm install moment

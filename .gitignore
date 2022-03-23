@@ -24,3 +24,8 @@ Homestead.json
 .phpunit.result.cache
 .idea
 
+
+package-lock.json
+package-*.json
+public/css/app.css
+public/js/app.js
